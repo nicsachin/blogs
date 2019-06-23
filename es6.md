@@ -1,5 +1,7 @@
 #ES6 (Better way of writing javascript)
 
+6 Better ways of writing javascript
+
 This blog is made with love and javascript
 
 ##1 : const and let keyword
